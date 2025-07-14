@@ -45,7 +45,7 @@ A professional, responsive Employee Directory web application built with vanilla
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/ajackus-employee-directory.git
+   git clone https://github.com/Krishnan-2024/ajackus-employee-directory.git
    cd ajackus-employee-directory
    ```
 
